@@ -6,4 +6,4 @@ notebook:https://github.com/ALLann123/Data-Science/blob/main/Project%202-Visuali
 
 Link to Streamlit:https://population-visualizations-698mllqnugumfbgwfjffzt.streamlit.app/ 
 
-![Screenshot 2025-07-02 150616](https://github.com/user-attachments/assets/8726da45-106c-4109-8db2-f9af66ceebc9)
+![Screenshot 2025-07-02 150616](https://github.com/user-attachments/assets/8726da45-106c-4109-8db2-f9af66ceebc9) 
